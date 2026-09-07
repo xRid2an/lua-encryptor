@@ -1,7 +1,7 @@
 # 🔐 Lua Encryptor
 
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache2.0-green.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/username/lua-encryptor)](https://github.com/username/lua-encryptor)
 
 Enkripsi teks/script Lua menggunakan Python dengan metode XOR dan Base64.
