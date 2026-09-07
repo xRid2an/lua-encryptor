@@ -32,7 +32,7 @@ lua-encrypt -d ./scripts -k "masterkey" --batch
 
 ```bash
 # Clone repository
-git clone https://github.com/username/lua-encryptor.git
+git clone https://github.com/xRid2an/lua-encryptor.git
 cd lua-encryptor
 
 # Install dependencies
