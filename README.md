@@ -14,9 +14,9 @@ Enkripsi teks/script Lua menggunakan Python dengan metode XOR dan Base64.
 - 📁 Enkripsi batch file
 - 🛡️ Obfuscation script Lua
 
-## 🚀 Cara penggunaan
+# 🚀 Cara penggunaan
 
-# CLI (Command Line Interface)
+## CLI (Command Line Interface)
 ```bash
 # Enkripsi teks langsung:
 lua-encrypt "print('Hello World!')" -k "mykey123"
@@ -27,7 +27,7 @@ lua-encrypt -f script.lua -k "mykey123" -o encrypted.lua
 # Batch encrypt semua file .lua:
 lua-encrypt -d ./scripts -k "masterkey" --batch
 ```
-# Python
+## Python API
 ```bash
 from encryptor import encrypt_to_lua, encrypt_to_lua_base64
 
